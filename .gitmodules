@@ -1,0 +1,6 @@
+[submodule "Weather-App"]
+	path = Weather-App
+	url = https://github.com/biprajitpaul5555/Weather-App.git
+[submodule "Login-Page"]
+	path = Login-Page
+	url = https://github.com/biprajitpaul5555/Login-Page.git
